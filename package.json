@@ -1,0 +1,21 @@
+{
+  "name": "it-job-recording-system",
+  "version": "1.0.0",
+  "description": "IT岗位求职记录系统 - 支持岗位信息的增删改查",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -p 8000",
+    "dev": "http-server -p 8000"
+  },
+  "keywords": [
+    "IT岗位",
+    "求职记录",
+    "数据库练习",
+    "曾紫瑛"
+  ],
+  "author": "曾紫瑛",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
